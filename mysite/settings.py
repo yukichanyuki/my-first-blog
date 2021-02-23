@@ -25,7 +25,7 @@ SECRET_KEY = ')3o7%e2j5_t87d_^p68sav5-=j&e!6l4kzss@zm286+jn+w$w('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythoanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'yukichan.pythoanywhere.com']
 
 
 # Application definition
